@@ -1,0 +1,60 @@
+eot2ttf - utility to convert Embedded OpenType fonts to TrueType
+fonts-freefont-ttf - Freefont Serif, Sans and Mono Truetype fonts
+fonts-hack-ttf - Hack TrueType fonts (transitional package for fonts-hack)
+fonts-thai-tlwg-ttf - Thai TrueType fonts maintained by TLWG (metapackage)
+fonts-tlwg-garuda-ttf - Thai Garuda TrueType font
+fonts-tlwg-kinnari-ttf - Thai Kinnari TrueType font
+fonts-tlwg-laksaman-ttf - Thai Laksaman TrueType font
+fonts-tlwg-loma-ttf - Thai Loma TrueType font
+fonts-tlwg-mono-ttf - Thai TlwgMono TrueType font
+fonts-tlwg-norasi-ttf - Thai Norasi TrueType font
+fonts-tlwg-purisa-ttf - Thai Purisa TrueType font
+fonts-tlwg-sawasdee-ttf - Thai Sawasdee TrueType font
+fonts-tlwg-typewriter-ttf - Thai TlwgTypewriter TrueType font
+fonts-tlwg-typist-ttf - Thai TlwgTypist TrueType font
+fonts-tlwg-typo-ttf - Thai TlwgTypo TrueType font
+fonts-tlwg-umpush-ttf - Thai Umpush TrueType font
+fonts-tlwg-waree-ttf - Thai Waree TrueType font
+liballegro-ttf5.2 - ttf addon for the Allegro 5 library
+libfont-ttf-perl - Perl module for TrueType font hacking
+libghc-sdl-ttf-dev - Haskell SDL TTF binding for GHC
+libghc-sdl-ttf-doc - Haskell SDL TTF binding for GHC - documentation
+libghc-sdl-ttf-prof - Haskell SDL TTF binding for GHC - profiling libraries
+libsdl-ttf2.0-0 - TrueType Font library for Simple DirectMedia Layer 1.2, libraries
+libsdl-ttf2.0-dev - TrueType Font library for Simple DirectMedia Layer 1.2, development files
+libsdl2-ttf-2.0-0 - TrueType Font library for Simple DirectMedia Layer 2, libraries
+libsdl2-ttf-dev - TrueType Font library for Simple DirectMedia Layer 2, development files
+libttfautohint-dev - Automatic font hiner - development files
+libttfautohint1 - Automatic font hiner - library
+ruby-ttfunk - Ruby library to parse TrueType font metrics
+ttf-aenigma - 465 free TrueType fonts by Brian Kent
+ttf-ancient-fonts - Unicode Fonts for Ancient Scripts (transitional package)
+ttf-ancient-fonts-symbola - symbolic font providing emoji chars from Unicode 9.0 (transit. pkg)
+ttf-anonymous-pro - fixed width sans serif font designed for coders
+ttf-bitstream-vera - The Bitstream Vera family of free TrueType fonts
+ttf-denemo - music notation symbol fonts for denemo
+ttf-engadget - Modern font from John Stracke
+ttf-essays1743 - transitional dummy package
+ttf-femkeklaver - transitional dummy package for fonts-femkeklaver
+ttf-goudybookletter - transitional dummy package
+ttf-jsmath - transition dummy package.
+ttf-kochi-gothic - Kochi Subst Gothic Japanese TrueType font without naga10
+ttf-kochi-mincho - Kochi Subst Mincho Japanese TrueType font without naga10
+ttf-marvosym - Symbol font for school and office
+ttf-opensymbol - transitional package for fonts-opensymbol
+ttf-radisnoir - transitional dummy package for fonts-radisnoir
+ttf-sazanami-gothic - Sazanami Gothic Japanese TrueType font (legacy)
+ttf-sazanami-mincho - Sazanami Mincho Japanese TrueType font (legacy)
+ttf-sjfonts - Some Juicy Fonts handwriting fonts
+ttf-staypuft - Free TrueType font
+ttf-summersby - Free TrueType typeface font
+ttf-tagbanwa - font for the Tagbanwa script
+ttf-unifont - TrueType version of GNU Unifont
+ttf2ufm - True Type to PostScript Type 1 Font Converter
+ttfautohint - Automatic font hinter
+ttf-mscorefonts-installer - Installer for Microsoft TrueType core fonts
+ttf-kochi-gothic-naga10 - Kochi Subst Gothic Japanese TrueType font with naga10 (non-free)
+ttf-kochi-mincho-naga10 - Kochi Subst Mincho Japanese TrueType font with naga10 (non-free)
+ttf-ubuntu-font-family - sans-serif font set from Ubuntu (transitional package)
+ttf-xfree86-nonfree - non-free TrueType fonts from XFree86
+ttf-xfree86-nonfree-syriac - non-free syriac OpenType fonts from XFree86
