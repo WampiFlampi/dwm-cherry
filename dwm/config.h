@@ -7,7 +7,7 @@ static const unsigned int scale     = 2; // monitor scale (1920/1080 ~= 1.7)
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = { "Dejavu Sans Mono:size=11" };
+static const char *fonts[]          = { "Nimbus Mono:size=11" };
 static const char dmenufont[]       = "monospace:size=10";
 static const char col_gray1[]       = "#212121";
 static const char col_gray2[]       = "#ad1457";
@@ -18,12 +18,12 @@ static const char col_cherry[]      = "#751016";
 static const char col_black[]       = "#000000";
 static const char col_white[]       = "#ffffff";
 static const char col_pink[]        = "#fa1754";
-static const char col_darkpink[]    = "#a51111";
+static const char col_darkpink[]    = "#880e4f";
 
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
-	[SchemeNorm] = { col_white, col_black, col_pink },
-	[SchemeSel]  = { col_black, col_cherry, col_darkpink  },
+	[SchemeNorm] = { col_white, col_black, col_darkpink },
+	[SchemeSel]  = { col_black, col_cherry, col_pink  },
 };
 
 /* tagging */
