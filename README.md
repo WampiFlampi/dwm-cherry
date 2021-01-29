@@ -2,14 +2,14 @@
 
 ![src](https://raw.githubusercontent.com/WampiFlampi/source/main/out.png)
 
-##Dependencies:
-    ######xorg and its many libraries
+## Dependencies:
+    ###### xorg and its many libraries
 
    1. ```pacman -S xorg-server...```
 
    2. ```apt-get install xorg-server...```
    
-    ######xcompmgr or compton
+    ###### xcompmgr or compton
 
     ```apt-get install compton```
 
@@ -17,7 +17,7 @@
    > I patched st already
     
     
-##Building:
+## Building:
 
   1. ```cd dwm```
    
