@@ -4,9 +4,13 @@
 Dependencies:
     xorg and its many libraries
     ```pacman -S xorg-server...```
+
     ```apt-get install xorg-server...```
+   
     xcompmgr or compton
+
     ```apt-get install compton```
+
     just use default config from their github
     I patched st already
     
