@@ -4,15 +4,15 @@
 
 ## Dependencies:
 ###### xorg/xlibs 
-   1. ```pacman -S xorg-server...```
+   ```pacman -S xorg-server...```
 
-   2. ```apt-get install xorg-server...```
+   ```apt-get install xorg-server...```
 
 ###### compton/xcompmgr
 
-   1. ```pacman -S compton```
+   ```pacman -S compton```
 
-   2. ```apt-get install compton```
+   ```apt-get install compton```
 
 Just use default config from their github
 I patched st already
