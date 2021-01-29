@@ -1,24 +1,26 @@
 # dwm-cherry
 
 ![src](https://raw.githubusercontent.com/WampiFlampi/source/main/out.png)
-Dependencies:
-    xorg and its many libraries
 
-    ```pacman -S xorg-server...```
+##Dependencies:
+    ######xorg and its many libraries
 
-    ```apt-get install xorg-server...```
+   1. ```pacman -S xorg-server...```
+
+   2. ```apt-get install xorg-server...```
    
-    xcompmgr or compton
+    ######xcompmgr or compton
 
     ```apt-get install compton```
-    just use default config from their github
-    I patched st already
-    
-    
-Building:
 
-   ```cd dwm```
+   > just use default config from their github
+   > I patched st already
+    
+    
+##Building:
+
+  1. ```cd dwm```
    
-   ```sudo make clean install```
+  2. ```sudo make clean install```
    
-   same process for st
+  > same process for st
