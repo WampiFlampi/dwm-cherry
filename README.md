@@ -3,13 +3,12 @@
 ![src](https://raw.githubusercontent.com/WampiFlampi/source/main/out.png)
 
 ## Dependencies:
-    ###### xorg and its many libraries
-
+###### xorg/xlibs 
    1. ```pacman -S xorg-server...```
 
    2. ```apt-get install xorg-server...```
-   
-    ###### xcompmgr or compton
+
+###### compton/xcompmgr
 
     ```apt-get install compton```
 
