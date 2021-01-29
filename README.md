@@ -10,10 +10,12 @@
 
 ###### compton/xcompmgr
 
-    ```apt-get install compton```
+   1. ```pacman -S compton```
 
-   > just use default config from their github
-   > I patched st already
+   2. ```apt-get install compton```
+
+Just use default config from their github
+I patched st already
     
     
 ## Building:
